@@ -1,0 +1,84 @@
+.logo {
+    margin-top: 10%;
+    margin-left: 42%;
+    position: relative;
+}
+
+.search {
+    margin-left: 20%;
+    height: 2.4rem;
+    width: 50%;
+    position: relative;
+    border: 0px;
+    border-radius: 20px;
+}
+
+.searchbar {
+    margin-left: 33%;
+    height: 2.5rem;
+    width: 35%;
+    position: relative;
+    border: solid grey 1px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.search:focus {
+    outline: none !important;
+    margin: 1%;
+    height: 2.3rem;
+    width: -100px;
+    top: -20%;
+}
+
+.search {
+    height: 2.3rem;
+    width: -80px;
+    position: relative;
+    margin: 1%;
+    top: -20%;
+    
+}
+
+.searchimg {
+    margin-bottom: 15%;
+    position: relative;
+    margin-left: -24.5%;
+    display: inline-block;
+}
+
+.searchbar:hover {
+    box-shadow: 1px 1px 1px grey;
+}
+
+.nav {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 10px;
+    padding-right: 5px;
+    float: right;
+    margin-bottom: 20%;
+    display: inline-block;
+}
+
+.profiel {
+    width: 50px
+}
+
+.searchlogo {
+    position: relative;
+}
+
+.searchlogo {
+    margin: 0;
+    height: 2rem;
+    position: relative;
+    top: 19%;
+    left: 1%;
+}
+
+.mic {
+    float: right;
+    margin: 0%;
+    display: inline-block;
+}
